@@ -18,6 +18,5 @@ int FibSum(int limit) {
     ef2 = ef3;
     sum += ef2;
   }
-
   return sum;
 }
