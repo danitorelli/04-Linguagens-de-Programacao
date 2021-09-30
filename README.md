@@ -20,7 +20,7 @@
 
 ## Python
 
-[Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Hello_world/python_hello.py)
+[Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Hello_world/python_helloo.py)
 
 <div align="center">
     <img src="imagens/python_hello.png" align="center">
@@ -31,7 +31,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Hello_world/hello_world.rb)
 
 <div align="center">
-    <img src="imagens/ruby_hello.png" align="center">
+    <img src="imagens/ruby_helloo.png" align="center">
 </div>
 
 ---
@@ -43,7 +43,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Project_euler_01/dart.dart)
 
 <div align="center">
-    <img src="imagens/dart_01.png" align="center">
+    <img src="imagens/dart_011.png" align="center">
 </div>
 
 ## Python
@@ -51,7 +51,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Project_euler_01/python.py)
 
 <div align="center">
-    <img src="imagens/python_01.png" align="center">
+    <img src="imagens/python_011.png" align="center">
 </div>
 
 
@@ -60,7 +60,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Project_euler_01/ruby.rb)
 
 <div align="center">
-    <img src="imagens/ruby_01.png" align="center">
+    <img src="imagens/ruby_011.png" align="center">
 </div>
 
 ---
@@ -72,7 +72,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Project_euler_02/dart.dart)
 
 <div align="center">
-    <img src="imagens/dart_02.png" align="center">
+    <img src="imagens/dart_022.png" align="center">
 </div>
 
 ## Python
@@ -80,7 +80,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Project_euler_02/python.py)
 
 <div align="center">
-    <img src="imagens/python_02.png" align="center">
+    <img src="imagens/python_022.png" align="center">
 </div>
 
 
@@ -89,7 +89,7 @@
 [Link para o repositório](https://github.com/danitorelli/04-Linguagens-de-Programacao/blob/main/Project_euler_02/ruby.rb)
 
 <div align="center">
-    <img src="imagens/ruby_02.png" align="center">
+    <img src="imagens/ruby_022.png" align="center">
 </div>
 
 ---
